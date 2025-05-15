@@ -5,6 +5,9 @@
 [![Map](https://img.shields.io/badge/Mapping-Folium-yellowgreen)]()
 [![Data](https://img.shields.io/badge/Data-Bayut.sa-orange)]()
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
+[![Focus](https://img.shields.io/badge/Focus-Geospatial%20Analysis-blue)]()
+[![Domain](https://img.shields.io/badge/Domain-Data%20Science-purple)]()
+
 
 Identifying potential undervalued apartments in Jeddah
 
