@@ -22,7 +22,7 @@ This new legislation presents an opportunity for non-beneficiaries to invest in 
 
 ## **Methodology**
 ---
-This project takes inspiration of Steve Ash's methodology [How to Spot Under-Valued Properties—With Steve Ash](https://www.youtube.com/watch?v=PqNe_3cOHe4), which outlines a three-stage process that progressively zones in on potentially undervalued properties.
+This project takes inspiration from Steve Ash's methodology [How to Spot Under-Valued Properties—With Steve Ash](https://www.youtube.com/watch?v=PqNe_3cOHe4), which outlines a three-stage process that progressively zones in on potentially undervalued properties.
 
 ### **Macro**
 At the Macro scale we identify neighborhoods with mean price per meter squared below the city-wide average, this helps narrow our search to specific neighborhoods
