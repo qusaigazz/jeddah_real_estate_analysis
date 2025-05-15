@@ -25,7 +25,12 @@ This new legislation presents an opportunity for non-beneficiaries to invest in 
 This project takes inspiration from Steve Ash's methodology [How to Spot Under-Valued Properties—With Steve Ash](https://www.youtube.com/watch?v=PqNe_3cOHe4), which outlines a three-stage process that progressively zones in on potentially undervalued properties.
 
 ### **Macro**
-At the Macro scale we identify neighborhoods with mean price per meter squared below the city-wide average, this helps narrow our search to specific neighborhoods
+Stage 1 consists of finding areas within the city that have properties below the city average, this filters out non-undervalued properties from our search. 
 
 ### **Miso**
-At this stage of the process we search for anomalous price discrepancies between neighborhoods which could indicate potential undervalue properties 
+During Stage 2 we focus on neighborhoods that show a significant price gap compared to their immediate neighbors. These localized low-price zones may indicate potential undervaluation irrespective of natural factors like location or amenities.
+
+### **Micro**
+At the final stage, we examine individual property listings situated between high- and low-priced neighborhoods. By analyzing listings in these transitional zones, we assess whether certain properties may be undervalued relative to their surroundings, and whether they have potential for value appreciation.
+
+
