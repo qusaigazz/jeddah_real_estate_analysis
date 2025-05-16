@@ -80,16 +80,16 @@ After scraping, I processed the raw CSV file using `pandas`. This included:
 
 ## Data Visulaization
 
-I used Folium, a Python library for interactive maps, to create a choropleth heatmap of property prices across Jeddah’s neighborhoods.
-The map integrates processed real estate data with a publicly available GeoJSON file of Saudi Arabia’s districts, filtered for city_id = 18 (Jeddah), with neighborhood names normalized for matching.
+I used `Folium`, a Python library for interactive maps, to create a choropleth heatmap of property prices across Jeddah’s neighborhoods.
+The map integrates processed real estate data with a publicly available GeoJSON file of Saudi Arabia’s districts, filtered for `city_id = 18` (Jeddah), with neighborhood names normalized for matching.
 Color gradients represent relative property values, visually highlighting undervalued or overpriced districts.
 Interactive features allow users to hover over each district to see:
 
-The district name
+- The district name
 
-Its average price per square meter
+- Its average price per square meter
 
-Whether it's above or below the city-wide average
+- Whether it's above or below the city-wide average
 
 The final map was saved as an HTML file and can be viewed interactively in any browser.
 
