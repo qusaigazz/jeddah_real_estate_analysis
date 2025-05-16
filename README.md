@@ -91,9 +91,16 @@ Interactive features allow users to hover over each district to see:
 
 - Whether it's above or below the city-wide average
 
+**Interpreting The Map**
+- Neighborhoods shaded in red to yellow represent areas with apartment listings, colored by their average price per square meter.
+
+- Grey districts indicate areas with insufficient or no apartment data on the platform (e.g., Bayut). This is likely because these neighborhoods are predominantly made up of other residential property types such as villas or private compounds, rather than apartments.
+
 The final map was saved as an HTML file and can be viewed interactively in any browser.
 
 ![Interactive Heatmap](Images/heatmap_preview.png)
+
+
 
 
 
