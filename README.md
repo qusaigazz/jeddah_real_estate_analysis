@@ -15,6 +15,7 @@ Identifying potential undervalued apartments in Jeddah
 ---
 - [About](#about)
 - [Methodology](#methodology)
+- [Macro](#Macro)
 
 
 ## **About**
@@ -36,4 +37,26 @@ During Stage 2 we focus on neighborhoods that show a significant price gap compa
 ### **Micro**
 At the final stage, we examine individual property listings situated between high- and low-priced neighborhoods. By analyzing listings in these transitional zones, we assess whether certain properties may be undervalued relative to their surroundings, and whether they have potential for value appreciation.
 
+## **Macro**
+---
+## Data Scraping and Collection
+
+I scraped apartment listings from [Bayut.sa](https://www.bayut.sa/en/), one of the leading real estate platforms in Saudi Arabia.
+I then used Python libraries `requests` and `BeautifulSoup` to extract key fields such as price, area, apartment specs, district, furnishing, and coordinates.
+The script loops over multiple pages and visits each listing individually to retrieve metadata such as latitude/longitude and furnishing type.
+I implemented polite scraping by adding `time.sleep()` between requests to avoid overloading the server.
+
+## Data Processing 
+
+After scraping, I processed the raw CSV file using `pandas`. This included:
+
+- Cleaning price and area fields (removing commas, extracting numerical values)
+
+- Calculating price per square meter (price ÷ area)
+
+- Normalizing neighborhood names to ensure consistent matching with GeoJSON district names
+
+- Removing listings with missing or generic data (e.g., listings labeled simply as “Jeddah”)
+
+- Calculating mean price per m² per neighborhood to support heatmap visualization
 
