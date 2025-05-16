@@ -93,7 +93,7 @@ Whether it's above or below the city-wide average
 
 The final map was saved as an HTML file and can be viewed interactively in any browser.
 
-![Interactive Heatmap](images/heatmap_preview.png)
+![Interactive Heatmap](Images/heatmap_preview.png)
 
 
 
