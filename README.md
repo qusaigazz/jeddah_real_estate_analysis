@@ -49,11 +49,8 @@ This project takes inspiration from Steve Ash's methodology [How to Spot Under-V
 ### **Macro**
 Stage 1 consists of finding areas within the city that have properties below the city average, this filters out non-undervalued properties from our search. 
 
-### **Miso**
-During Stage 2 we focus on neighborhoods that show a significant price gap compared to their immediate neighbors. These localized low-price zones may indicate potential undervaluation irrespective of natural factors like location or amenities.
-
 ### **Micro**
-At the final stage, we examine individual property listings situated between high- and low-priced neighborhoods. By analyzing listings in these transitional zones, we assess whether certain properties may be undervalued relative to their surroundings, and whether they have potential for value appreciation.
+Stage 2, we examine individual property listings situated between high- and low-priced neighborhoods. By analyzing listings in these transitional zones, we assess whether certain properties may be undervalued relative to their surroundings, and whether they have potential for value appreciation.
 
 ## 🌍 **Macro**
 ---
@@ -99,6 +96,7 @@ Interactive features allow users to hover over each district to see:
 The final map was saved as an HTML file and can be viewed interactively in any browser.
 
 ![Interactive Heatmap](Images/heatmap_preview.png)
+
 
 
 
