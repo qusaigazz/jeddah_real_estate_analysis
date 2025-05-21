@@ -6,6 +6,7 @@
 [![Data](https://img.shields.io/badge/Data-Bayut.sa-orange)]()
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 [![Focus](https://img.shields.io/badge/Focus-Geospatial%20Analysis-blue)]()
+[![Cloud](https://img.shields.io/badge/API-Google%20Cloud%20Maps-brightgreen)]()
 [![Domain](https://img.shields.io/badge/Domain-Data%20Science-purple)]()
 
 # 📌 Summary
